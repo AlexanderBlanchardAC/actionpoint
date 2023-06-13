@@ -1,5 +1,5 @@
 import heroImage from './assets/heroImage.png';
-import logo from './assets/logo.png'
+// import logo from './assets/logo.png'
 import bradford from './assets/sponsors/bradford.gif';
 import lottery from './assets/sponsors/lottery.jpg';
 import morrisons from './assets/sponsors/morrisons.jpg';

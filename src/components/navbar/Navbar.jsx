@@ -1,20 +1,14 @@
 import React, { useState } from 'react';
 import './navbar.css';
-import { navbarData, aboutSubMenu, volunteerSubMenu } from '../../data';
-import { NavLink } from 'react-router-dom';
-import { BsFillCaretDownFill } from 'react-icons/bs';
+// s// import { NavLink } from 'react-router-dom';
 import { menuItems } from '../nav/menuItems';
 import MenuItems from '../header/MenuItems';
 
 
 const Navbar = () => {
     const [isNavExpanded, setIsNavExpanded] = useState(false);
-    const [subActive, setSubActive] = useState(false);
-    const [volSubActive, setVolSubActive] = useState(false);
 
-    const { items } = navbarData; 
-    const { aboutItems } = aboutSubMenu;
-    const {volunteerItems } = volunteerSubMenu;
+    // const { items } = navbarData; 
 
    
 

@@ -5,7 +5,7 @@ import { homeData } from '../../data';
 import Sponsors from '../../components/sponsors/Sponsors';
 import JustGiving from '../../components/justGiving/JustGiving';
 import { Link } from 'react-scroll';
-import heroImageHmm from '../../assets/heroImageHmm.jpg';
+// import heroImageHmm from '../../assets/heroImageHmm.jpg';
 
 const Home = () => {
     const { homeHeader, paragraphs, disabilityConfidentImg } = homeData;
