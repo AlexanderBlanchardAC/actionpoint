@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/actionpoint/static/css/main.f2b84e4a.css",
+    "main.js": "/actionpoint/static/js/main.af05167b.js",
+    "static/js/787.b65008fe.chunk.js": "/actionpoint/static/js/787.b65008fe.chunk.js",
+    "static/media/heroImage.png": "/actionpoint/static/media/heroImage.874484b79477cb8d4356.png",
+    "static/media/bradford.gif": "/actionpoint/static/media/bradford.43524516097739f58bf1.gif",
+    "static/media/keighley.png": "/actionpoint/static/media/keighley.2cdb752e508780fc62c1.png",
+    "static/media/logo.png": "/actionpoint/static/media/logo.34e759ab293a4a4855f2.png",
+    "static/media/asda.png": "/actionpoint/static/media/asda.96e018f4319bf324e476.png",
+    "static/media/lottery.jpg": "/actionpoint/static/media/lottery.4cac2f77306b462c8ac8.jpg",
+    "static/media/justGiving.png": "/actionpoint/static/media/justGiving.a660fabf1c1a8697ecab.png",
+    "static/media/disabilityConfident.png": "/actionpoint/static/media/disabilityConfident.02f5cbdb66910e34bf89.png",
+    "static/media/cnet.svg": "/actionpoint/static/media/cnet.ccaedc33982a6936dbf4cb47b2886ba0.svg",
+    "index.html": "/actionpoint/index.html",
+    "main.f2b84e4a.css.map": "/actionpoint/static/css/main.f2b84e4a.css.map",
+    "main.af05167b.js.map": "/actionpoint/static/js/main.af05167b.js.map",
+    "787.b65008fe.chunk.js.map": "/actionpoint/static/js/787.b65008fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b84e4a.css",
+    "static/js/main.af05167b.js"
+  ]
+}
