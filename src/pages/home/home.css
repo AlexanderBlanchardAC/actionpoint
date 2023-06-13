@@ -1,0 +1,99 @@
+.homeContainer {
+    min-height: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.heroContainerDiv {
+    width: 100%;
+    /* height: 554px; */
+    height: 610px;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    
+}
+
+.homeAboutUs {
+    padding: 0.5em;
+    width: 90%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.homeAboutTitle {
+    text-align: center;
+    width: 50%;
+    color: darkblue;
+}
+
+.homeAboutPara {
+    font-size: 1.2em;
+    font-weight: 300;
+    margin: 1em;
+}
+
+.disabilityConfidentLogo {
+    min-width: 100px;
+    min-height: 75px;
+    max-width: 250px;
+    max-height: 150px;
+    margin-top: 1em;
+}
+
+.sponsorsContainer {
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4em;
+}
+
+.justGiving {
+    width: 100vw;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.toTopDiv {
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+}
+
+.toTop {
+    padding: 1em;
+    background-color: orange;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+}
+
+.charity {
+    /* display: flex; */
+    padding: 0.5em;
+}
+
+.charityInfo,
+.charityInfoTwo {
+    text-align: right;
+    color: darkblue;
+}
+
+.charityInfo {
+    font-weight: 700;
+}
+

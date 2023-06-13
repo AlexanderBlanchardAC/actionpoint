@@ -1,0 +1,16 @@
+.menuItems {
+    list-style-type: none;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    position: relative;
+}
+
+.menuItems:hover {
+    color: darkblue;
+    font-size: 1.6em;
+} 
+
+/* .listItem:hover {
+    color: darkblue;
+} */

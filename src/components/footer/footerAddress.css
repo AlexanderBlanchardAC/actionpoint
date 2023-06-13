@@ -1,0 +1,64 @@
+.footerContainer {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    margin: 2em 0;
+}
+
+.footerInner {
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+a,
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+.socialsFooter,
+.contactFooter,
+.contactFooterAddress {
+    width: 200px;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contactFooter,
+.contactFooterAddress {
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contactFooterAddress {
+    align-items: flex-end;
+    font-weight: 500;
+}
+
+.phone {
+    padding-bottom: 0.5em;
+    font-weight: 700;
+}
+
+.email {
+    font-weight: 700;
+}
+
+.facebookIcon,
+.twitterIcon {
+    width: 50px;
+    height: 50px;
+}
+
+
